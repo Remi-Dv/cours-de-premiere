@@ -6,7 +6,7 @@ Ce dépot Github contient les résumés de cours de chaque matière pour la clas
 
 ## Matières
 
-Les différentes matières abordées sont toutes celle enseignées en première générale, il peut aussi y contenir des spécialitées.
+Les différentes matières abordées sont toutes celle enseignées en première générale, il peut aussi il y avoir des spécialitées.
 
 ## Contribuer
 
