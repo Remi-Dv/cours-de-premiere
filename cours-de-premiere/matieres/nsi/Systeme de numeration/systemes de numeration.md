@@ -32,4 +32,4 @@ Il contient les chiffres 0123456789ABCDEF.
 
 On écrit un nombre dans le système hexadécimal: 
 
-N = (B4F)₂ = 15 x 16⁰ + 4 x 16¹ + 11 x 16²
+N = (B4F)₁₆ = 15 x 16⁰ + 4 x 16¹ + 11 x 16²
